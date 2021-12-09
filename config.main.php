@@ -8,7 +8,7 @@
 /* Version 1                                                                 */
 /**/                                                                       /**/
 
-$KP_INSTALL_STATUS = false; // Change to true if you have used the manual install option.
+$KP_INSTALL_STATUS = true; // Change to true if you have used the manual install option.
 
 $KP_CONFIG = array(
   "donation_key" => "", // Leave it empty if you don't have one. It's used for removing "Powered By kPanel" from the footer.

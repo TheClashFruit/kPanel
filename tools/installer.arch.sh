@@ -1,0 +1,1 @@
+# todo: install script for Arch Linux based distros (low)
